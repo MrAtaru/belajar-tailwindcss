@@ -1,8 +1,6 @@
 <script setup>
-import HelloWorld from "./components/HelloWorld.vue";
 import Navbar from "./components/Navbar.vue";
 import Footer from "./components/Footer.vue";
-import Card from "./components/Card.vue";
 import Jumbotron from "./components/Jumbotron.vue";
 import Tabs from "./components/Tabs.vue";
 if (
