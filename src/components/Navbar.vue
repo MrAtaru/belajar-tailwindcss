@@ -8,7 +8,7 @@ import { Navbar, Sidebar, NavbarLogo, NavbarCollapse, NavbarLink, Dropdown, List
       <NavbarLogo link="#" alt="Flowbite logo" image-url="https://flowbite.com/docs/images/logo.svg">
         <dropdown text="Bottom">
     <template #trigger>
-      <span>Flowbite</span>
+      <span>Gundam Gallery</span>
     </template>
     <list-group>
       <list-group-item>
