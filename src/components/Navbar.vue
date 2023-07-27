@@ -5,7 +5,7 @@ import { Navbar, Sidebar, NavbarLogo, NavbarCollapse, NavbarLink, Dropdown, List
 <template>
   <Navbar>
     <template #logo>
-      <NavbarLogo link="#" alt="Flowbite logo" image-url="https://flowbite.com/docs/images/logo.svg">
+      <NavbarLogo link="#" alt="Flowbite logo" image-url="/favpng_earth-federation-gundam-logo-wikia.png">
         <dropdown text="Bottom">
     <template #trigger>
       <span>Gundam Gallery</span>
